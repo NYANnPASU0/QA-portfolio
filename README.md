@@ -6,5 +6,5 @@
 | Папка | Описание |
 |:------|:---------|
 | test-cases | Тест-кейсы (Excel/Markdown)|
-| test-design | Тест-дизайн (теория и практика) |
+| school_21_projects | Собраны проекты из "Школы 21" |
 | check-lists | Чек-листы (Excel/Markdown) |
