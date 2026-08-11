@@ -5,6 +5,7 @@
 ### Структура проектов
 | Папка | Описание |
 |:------|:---------|
-| test-cases | Тест-кейсы (Excel/Markdown)|
-| school_21_projects | Собраны проекты из "Школы 21" |
-| check-lists | Чек-листы (Excel/Markdown) |
+| test-cases | Тест-кейсы (Markdown)|
+| check-lists | Чек-листы (Markdown) |
+| bug-reports | Баг-репорты (Markdown) |
+| theory | Немного теории |
