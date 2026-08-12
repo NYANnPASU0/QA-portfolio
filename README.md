@@ -8,4 +8,3 @@
 | test-cases | Тест-кейсы (Markdown)|
 | check-lists | Чек-листы (Markdown) |
 | bug-reports | Баг-репорты (Markdown) |
-| theory | Немного теории |
